@@ -1,6 +1,9 @@
 # TipTime
 Sebuah aplikasi yang menghitung jumlah tip.
 
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-1
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-2
+
 ## Screenshots
 <img src="assets/Preview.png"
 width="256">&nbsp;&nbsp;&nbsp;
