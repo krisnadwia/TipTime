@@ -4,7 +4,7 @@ An application that calculates the amount and total of tips
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-1
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-2
 
-Download this app: https://cloud.degoo.com/share/dYHNTU2tLmKbKq5vBfwISg
+Download this app: https://drive.google.com/drive/folders/1-3CSgrom5nb_BAwPdbxsdyZojYCPHWj3?usp=share_link
 
 ## Screenshots
 <img src="assets/TipTimeLogo.png"
